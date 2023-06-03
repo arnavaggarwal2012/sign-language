@@ -1,4 +1,4 @@
-# Combining Opposites: Embracing the Deaf Community
+# COMMUNICATING IN A NEW WAY
 
 ## Installation
 
