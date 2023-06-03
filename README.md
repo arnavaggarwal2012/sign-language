@@ -36,7 +36,7 @@ To run the website and delve into the world of American Sign Language (ASL), fol
 
 3. The website will now be accessible at `http://localhost:3000` in your web browser.
 
-Now, immerse yourself in the captivating fusion of hand movements, facial expressions, and body postures that make up ASL. Experience the beauty and inclusivity of sign language communication as you explore this interactive website.
+Experience the beauty and inclusivity of sign language communication as you explore this interactive website.
 
 ## About the Project
 
